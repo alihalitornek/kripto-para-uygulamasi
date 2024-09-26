@@ -1,0 +1,7 @@
+﻿  alihalitornekodev2.cpp
+C:\Users\technopc\source\repos\alihalitornekodev2\alihalitornekodev2\alihalitornekodev2.cpp(115,27): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev2\alihalitornekodev2\alihalitornekodev2.cpp(119,33): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev2\alihalitornekodev2\alihalitornekodev2.cpp(127,35): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev2\alihalitornekodev2\alihalitornekodev2.cpp(131,35): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev2\alihalitornekodev2\alihalitornekodev2.cpp(138,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  alihalitornekodev2.vcxproj -> C:\Users\technopc\source\repos\alihalitornekodev2\x64\Debug\alihalitornekodev2.exe
